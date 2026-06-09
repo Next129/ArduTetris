@@ -1,2 +1,2 @@
 # ArduTetris
-An Arduino-based Tetris clone built with C++. Features gameplay on a 32x8 LED matrix (MAX7219), real-time scoring and scrolling text on an I2C LCD, and classic 8-bit melodies via a piezo buzzer. Includes collision detection, line clearing, piece rotation, and progressive difficulty. Controlled via an analog joystick. Perfect portfolio project!
+An Arduino Tetris clone built in C++. Features a 32x8 MAX7219 LED matrix for gameplay, an I2C LCD for real-time scoring, and an analog joystick for precise movement. Includes custom collision logic, line clearing, progressive drop speed, and classic retro melodies via a piezo buzzer. An excellent embedded systems portfolio piece to showcase skills.
